@@ -1,56 +1,30 @@
-
-const int MAXX = 2048;
 class Solution {
 public:
     int uniqueXorTriplets(vector<int>& nums) {
-        // set<int>xor_n;
-        // set<int>xor_2;
-        // int i=0, j=0, k=0;
-    //    while(i<=j && j<=k && k<nums.size())
-    //    {
-    //     int a = nums[i] ^ nums[j] ^ nums[k];
-    //     xor_n.insert(a);
-    //     if(k==j && k==i) k++;
-    //     else if(k>j && k>i && j==i) j++;
-    //     else if(k>j && j>i) i++;
+        // Since 1500 fits in 11 bits, any XOR result also fits in 11 bits, a 11-bit number can have values from 0 to (2^11) - 1 = 2047, so we need a vector of size 2048, and making it false so that if in xor that number comes we can make it true and in last just calculate for those
+        vector<bool>xor_1(2048, false);
+        vector<bool>xor_2(2048, false);
+        int cnt = 0;//counting unique pairs
 
-    //    } 
-    // for(int i=0; i<nums.size(); i++)
-    // {
-    //     for(int j=i; j<nums.size(); j++)
-    //     {
-    //         xor_n.insert(nums[i] ^ nums[j]);
-    //     }
-    // }
-    // for(auto a: xor_n)
-    // {
-    //     for(int k=0; k<nums.size();k++)
-    //     {
-    //         xor_2.insert(a ^ nums[k]);
-    //     }
-    // }
-    //    return xor_2.size();
-        vector<bool> pairXor(MAXX, false);
-        vector<bool> tripletXor(MAXX, false);
-        int n = nums.size();
-        for (int i = 0; i < n; i++) 
+        for(int i=0; i<nums.size(); i++)
         {
-            for (int j = i; j < n; j++) 
+            for(int j=i; j<nums.size(); j++)
             {
-                pairXor[nums[i] ^ nums[j]] = true;
+                xor_1[nums[i] ^ nums[j]] = true; // xor of 2 elements first 
             }
         }
-        for (int x = 0; x < MAXX; x++) 
+        for(int i=0; i<2048; i++)
         {
-            if (!pairXor[x]) continue;
-            for (int k = 0; k < n; k++) 
+            if(!xor_1[i]) continue;
+            for(int j=0; j<nums.size(); j++)
             {
-                tripletXor[x ^ nums[k]] = true;
+                xor_2[i ^ nums[j]] = true;//xor of all valid xors with every element of that array nums
             }
         }
-        int ans = 0;
-        for (bool x : tripletXor)
-            ans += x;
-        return ans;
+        for(int i=0; i<2048; i++)
+        {
+            if(xor_2[i]) cnt++;//count number of distinct values 
+        }
+        return cnt;
     }
 };
