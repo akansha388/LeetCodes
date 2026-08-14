@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0338-counting-bits](https://github.com/akansha388/LeetCodes/tree/master/0338-counting-bits) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/akansha388/LeetCodes/tree/master/3514-number-of-unique-xor-triplets-ii) |
 ## Enumeration
 |  |
@@ -86,4 +87,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0700-search-in-a-binary-search-tree](https://github.com/akansha388/LeetCodes/tree/master/0700-search-in-a-binary-search-tree) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0338-counting-bits](https://github.com/akansha388/LeetCodes/tree/master/0338-counting-bits) |
 <!---LeetCode Topics End-->
