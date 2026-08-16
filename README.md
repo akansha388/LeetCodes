@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0136-single-number](https://github.com/akansha388/LeetCodes/tree/master/0136-single-number) |
 | [0283-move-zeroes](https://github.com/akansha388/LeetCodes/tree/master/0283-move-zeroes) |
 | [0628-maximum-product-of-three-numbers](https://github.com/akansha388/LeetCodes/tree/master/0628-maximum-product-of-three-numbers) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/akansha388/LeetCodes/tree/master/1431-kids-with-the-greatest-number-of-candies) |
@@ -32,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0136-single-number](https://github.com/akansha388/LeetCodes/tree/master/0136-single-number) |
 | [0338-counting-bits](https://github.com/akansha388/LeetCodes/tree/master/0338-counting-bits) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/akansha388/LeetCodes/tree/master/3514-number-of-unique-xor-triplets-ii) |
 ## Enumeration
