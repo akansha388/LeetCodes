@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/akansha388/LeetCodes/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1732-find-the-highest-altitude](https://github.com/akansha388/LeetCodes/tree/master/1732-find-the-highest-altitude) |
 | [2215-find-the-difference-of-two-arrays](https://github.com/akansha388/LeetCodes/tree/master/2215-find-the-difference-of-two-arrays) |
+| [3483-unique-3-digit-even-numbers](https://github.com/akansha388/LeetCodes/tree/master/3483-unique-3-digit-even-numbers) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/akansha388/LeetCodes/tree/master/3514-number-of-unique-xor-triplets-ii) |
 ## Math
 |  |
@@ -45,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Enumeration
 |  |
 | ------- |
+| [3483-unique-3-digit-even-numbers](https://github.com/akansha388/LeetCodes/tree/master/3483-unique-3-digit-even-numbers) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/akansha388/LeetCodes/tree/master/3514-number-of-unique-xor-triplets-ii) |
 ## Sorting
 |  |
@@ -105,8 +107,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2215-find-the-difference-of-two-arrays](https://github.com/akansha388/LeetCodes/tree/master/2215-find-the-difference-of-two-arrays) |
+| [3483-unique-3-digit-even-numbers](https://github.com/akansha388/LeetCodes/tree/master/3483-unique-3-digit-even-numbers) |
 ## Game Theory
 |  |
 | ------- |
 | [1927-sum-game](https://github.com/akansha388/LeetCodes/tree/master/1927-sum-game) |
+## Recursion
+|  |
+| ------- |
+| [3483-unique-3-digit-even-numbers](https://github.com/akansha388/LeetCodes/tree/master/3483-unique-3-digit-even-numbers) |
 <!---LeetCode Topics End-->
