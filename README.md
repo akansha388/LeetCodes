@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0008-string-to-integer-atoi](https://github.com/akansha388/LeetCodes/tree/master/0008-string-to-integer-atoi) |
+| [0072-edit-distance](https://github.com/akansha388/LeetCodes/tree/master/0072-edit-distance) |
 | [1768-merge-strings-alternately](https://github.com/akansha388/LeetCodes/tree/master/1768-merge-strings-alternately) |
 | [1927-sum-game](https://github.com/akansha388/LeetCodes/tree/master/1927-sum-game) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/akansha388/LeetCodes/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
@@ -102,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0072-edit-distance](https://github.com/akansha388/LeetCodes/tree/master/0072-edit-distance) |
 | [0338-counting-bits](https://github.com/akansha388/LeetCodes/tree/master/0338-counting-bits) |
 ## Hash Table
 |  |
