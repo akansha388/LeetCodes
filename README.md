@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0060-permutation-sequence](https://github.com/akansha388/LeetCodes/tree/master/0060-permutation-sequence) |
 | [0628-maximum-product-of-three-numbers](https://github.com/akansha388/LeetCodes/tree/master/0628-maximum-product-of-three-numbers) |
 | [1927-sum-game](https://github.com/akansha388/LeetCodes/tree/master/1927-sum-game) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/akansha388/LeetCodes/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
@@ -119,5 +120,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Recursion
 |  |
 | ------- |
+| [0060-permutation-sequence](https://github.com/akansha388/LeetCodes/tree/master/0060-permutation-sequence) |
 | [3483-unique-3-digit-even-numbers](https://github.com/akansha388/LeetCodes/tree/master/3483-unique-3-digit-even-numbers) |
 <!---LeetCode Topics End-->
