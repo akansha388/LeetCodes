@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0041-first-missing-positive](https://github.com/akansha388/LeetCodes/tree/master/0041-first-missing-positive) |
 | [0136-single-number](https://github.com/akansha388/LeetCodes/tree/master/0136-single-number) |
 | [0283-move-zeroes](https://github.com/akansha388/LeetCodes/tree/master/0283-move-zeroes) |
 | [0605-can-place-flowers](https://github.com/akansha388/LeetCodes/tree/master/0605-can-place-flowers) |
@@ -108,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0041-first-missing-positive](https://github.com/akansha388/LeetCodes/tree/master/0041-first-missing-positive) |
 | [2215-find-the-difference-of-two-arrays](https://github.com/akansha388/LeetCodes/tree/master/2215-find-the-difference-of-two-arrays) |
 | [3483-unique-3-digit-even-numbers](https://github.com/akansha388/LeetCodes/tree/master/3483-unique-3-digit-even-numbers) |
 ## Game Theory
