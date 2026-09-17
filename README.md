@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0041-first-missing-positive](https://github.com/akansha388/LeetCodes/tree/master/0041-first-missing-positive) |
 | [0136-single-number](https://github.com/akansha388/LeetCodes/tree/master/0136-single-number) |
+| [0174-dungeon-game](https://github.com/akansha388/LeetCodes/tree/master/0174-dungeon-game) |
 | [0283-move-zeroes](https://github.com/akansha388/LeetCodes/tree/master/0283-move-zeroes) |
 | [0605-can-place-flowers](https://github.com/akansha388/LeetCodes/tree/master/0605-can-place-flowers) |
 | [0628-maximum-product-of-three-numbers](https://github.com/akansha388/LeetCodes/tree/master/0628-maximum-product-of-three-numbers) |
@@ -106,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0072-edit-distance](https://github.com/akansha388/LeetCodes/tree/master/0072-edit-distance) |
+| [0174-dungeon-game](https://github.com/akansha388/LeetCodes/tree/master/0174-dungeon-game) |
 | [0338-counting-bits](https://github.com/akansha388/LeetCodes/tree/master/0338-counting-bits) |
 ## Hash Table
 |  |
@@ -122,4 +124,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0060-permutation-sequence](https://github.com/akansha388/LeetCodes/tree/master/0060-permutation-sequence) |
 | [3483-unique-3-digit-even-numbers](https://github.com/akansha388/LeetCodes/tree/master/3483-unique-3-digit-even-numbers) |
+## Matrix
+|  |
+| ------- |
+| [0174-dungeon-game](https://github.com/akansha388/LeetCodes/tree/master/0174-dungeon-game) |
 <!---LeetCode Topics End-->
