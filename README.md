@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0008-string-to-integer-atoi](https://github.com/akansha388/LeetCodes/tree/master/0008-string-to-integer-atoi) |
+| [0032-longest-valid-parentheses](https://github.com/akansha388/LeetCodes/tree/master/0032-longest-valid-parentheses) |
 | [0072-edit-distance](https://github.com/akansha388/LeetCodes/tree/master/0072-edit-distance) |
 | [1768-merge-strings-alternately](https://github.com/akansha388/LeetCodes/tree/master/1768-merge-strings-alternately) |
 | [1927-sum-game](https://github.com/akansha388/LeetCodes/tree/master/1927-sum-game) |
@@ -108,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0032-longest-valid-parentheses](https://github.com/akansha388/LeetCodes/tree/master/0032-longest-valid-parentheses) |
 | [0072-edit-distance](https://github.com/akansha388/LeetCodes/tree/master/0072-edit-distance) |
 | [0174-dungeon-game](https://github.com/akansha388/LeetCodes/tree/master/0174-dungeon-game) |
 | [0338-counting-bits](https://github.com/akansha388/LeetCodes/tree/master/0338-counting-bits) |
@@ -136,4 +138,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/akansha388/LeetCodes/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
+## Stack
+|  |
+| ------- |
+| [0032-longest-valid-parentheses](https://github.com/akansha388/LeetCodes/tree/master/0032-longest-valid-parentheses) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0032-longest-valid-parentheses](https://github.com/akansha388/LeetCodes/tree/master/0032-longest-valid-parentheses) |
 <!---LeetCode Topics End-->
