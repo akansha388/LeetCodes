@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0033-search-in-rotated-sorted-array](https://github.com/akansha388/LeetCodes/tree/master/0033-search-in-rotated-sorted-array) |
 | [0041-first-missing-positive](https://github.com/akansha388/LeetCodes/tree/master/0041-first-missing-positive) |
 | [0136-single-number](https://github.com/akansha388/LeetCodes/tree/master/0136-single-number) |
+| [0153-find-minimum-in-rotated-sorted-array](https://github.com/akansha388/LeetCodes/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0174-dungeon-game](https://github.com/akansha388/LeetCodes/tree/master/0174-dungeon-game) |
 | [0283-move-zeroes](https://github.com/akansha388/LeetCodes/tree/master/0283-move-zeroes) |
 | [0605-can-place-flowers](https://github.com/akansha388/LeetCodes/tree/master/0605-can-place-flowers) |
@@ -114,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/akansha388/LeetCodes/tree/master/0033-search-in-rotated-sorted-array) |
+| [0153-find-minimum-in-rotated-sorted-array](https://github.com/akansha388/LeetCodes/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0700-search-in-a-binary-search-tree](https://github.com/akansha388/LeetCodes/tree/master/0700-search-in-a-binary-search-tree) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/akansha388/LeetCodes/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/akansha388/LeetCodes/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
