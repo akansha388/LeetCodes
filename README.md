@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0008-string-to-integer-atoi](https://github.com/akansha388/LeetCodes/tree/master/0008-string-to-integer-atoi) |
 | [0032-longest-valid-parentheses](https://github.com/akansha388/LeetCodes/tree/master/0032-longest-valid-parentheses) |
 | [0072-edit-distance](https://github.com/akansha388/LeetCodes/tree/master/0072-edit-distance) |
+| [0678-valid-parenthesis-string](https://github.com/akansha388/LeetCodes/tree/master/0678-valid-parenthesis-string) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/akansha388/LeetCodes/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1768-merge-strings-alternately](https://github.com/akansha388/LeetCodes/tree/master/1768-merge-strings-alternately) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/akansha388/LeetCodes/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
@@ -92,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0605-can-place-flowers](https://github.com/akansha388/LeetCodes/tree/master/0605-can-place-flowers) |
+| [0678-valid-parenthesis-string](https://github.com/akansha388/LeetCodes/tree/master/0678-valid-parenthesis-string) |
 | [1927-sum-game](https://github.com/akansha388/LeetCodes/tree/master/1927-sum-game) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/akansha388/LeetCodes/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 ## Tree
@@ -133,6 +135,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0072-edit-distance](https://github.com/akansha388/LeetCodes/tree/master/0072-edit-distance) |
 | [0174-dungeon-game](https://github.com/akansha388/LeetCodes/tree/master/0174-dungeon-game) |
 | [0338-counting-bits](https://github.com/akansha388/LeetCodes/tree/master/0338-counting-bits) |
+| [0678-valid-parenthesis-string](https://github.com/akansha388/LeetCodes/tree/master/0678-valid-parenthesis-string) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/akansha388/LeetCodes/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [3524-find-x-value-of-array-i](https://github.com/akansha388/LeetCodes/tree/master/3524-find-x-value-of-array-i) |
 ## Hash Table
@@ -166,11 +169,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0032-longest-valid-parentheses](https://github.com/akansha388/LeetCodes/tree/master/0032-longest-valid-parentheses) |
+| [0678-valid-parenthesis-string](https://github.com/akansha388/LeetCodes/tree/master/0678-valid-parenthesis-string) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/akansha388/LeetCodes/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 ## Bracket Sequences
 |  |
 | ------- |
 | [0032-longest-valid-parentheses](https://github.com/akansha388/LeetCodes/tree/master/0032-longest-valid-parentheses) |
+| [0678-valid-parenthesis-string](https://github.com/akansha388/LeetCodes/tree/master/0678-valid-parenthesis-string) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/akansha388/LeetCodes/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 ## Geometry
 |  |
