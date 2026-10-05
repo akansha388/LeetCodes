@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/akansha388/LeetCodes/tree/master/0033-search-in-rotated-sorted-array) |
+| [0037-sudoku-solver](https://github.com/akansha388/LeetCodes/tree/master/0037-sudoku-solver) |
 | [0041-first-missing-positive](https://github.com/akansha388/LeetCodes/tree/master/0041-first-missing-positive) |
 | [0136-single-number](https://github.com/akansha388/LeetCodes/tree/master/0136-single-number) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/akansha388/LeetCodes/tree/master/0153-find-minimum-in-rotated-sorted-array) |
@@ -142,6 +143,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0037-sudoku-solver](https://github.com/akansha388/LeetCodes/tree/master/0037-sudoku-solver) |
 | [0041-first-missing-positive](https://github.com/akansha388/LeetCodes/tree/master/0041-first-missing-positive) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/akansha388/LeetCodes/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/akansha388/LeetCodes/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
@@ -160,6 +162,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0037-sudoku-solver](https://github.com/akansha388/LeetCodes/tree/master/0037-sudoku-solver) |
 | [0174-dungeon-game](https://github.com/akansha388/LeetCodes/tree/master/0174-dungeon-game) |
 ## Sliding Window
 |  |
@@ -188,4 +191,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3498-reverse-degree-of-a-string](https://github.com/akansha388/LeetCodes/tree/master/3498-reverse-degree-of-a-string) |
+## Backtracking
+|  |
+| ------- |
+| [0037-sudoku-solver](https://github.com/akansha388/LeetCodes/tree/master/0037-sudoku-solver) |
+## Algorithm X
+|  |
+| ------- |
+| [0037-sudoku-solver](https://github.com/akansha388/LeetCodes/tree/master/0037-sudoku-solver) |
+## Dancing Links
+|  |
+| ------- |
+| [0037-sudoku-solver](https://github.com/akansha388/LeetCodes/tree/master/0037-sudoku-solver) |
 <!---LeetCode Topics End-->
