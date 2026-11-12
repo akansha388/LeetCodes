@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0008-string-to-integer-atoi](https://github.com/akansha388/LeetCodes/tree/master/0008-string-to-integer-atoi) |
 | [0032-longest-valid-parentheses](https://github.com/akansha388/LeetCodes/tree/master/0032-longest-valid-parentheses) |
 | [0072-edit-distance](https://github.com/akansha388/LeetCodes/tree/master/0072-edit-distance) |
+| [0387-first-unique-character-in-a-string](https://github.com/akansha388/LeetCodes/tree/master/0387-first-unique-character-in-a-string) |
 | [0678-valid-parenthesis-string](https://github.com/akansha388/LeetCodes/tree/master/0678-valid-parenthesis-string) |
 | [0856-score-of-parentheses](https://github.com/akansha388/LeetCodes/tree/master/0856-score-of-parentheses) |
 | [1021-remove-outermost-parentheses](https://github.com/akansha388/LeetCodes/tree/master/1021-remove-outermost-parentheses) |
@@ -97,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting Sort
 |  |
 | ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/akansha388/LeetCodes/tree/master/0387-first-unique-character-in-a-string) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/akansha388/LeetCodes/tree/master/3517-smallest-palindromic-rearrangement-i) |
 ## Prefix Sum
 |  |
@@ -160,6 +162,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0037-sudoku-solver](https://github.com/akansha388/LeetCodes/tree/master/0037-sudoku-solver) |
 | [0041-first-missing-positive](https://github.com/akansha388/LeetCodes/tree/master/0041-first-missing-positive) |
+| [0387-first-unique-character-in-a-string](https://github.com/akansha388/LeetCodes/tree/master/0387-first-unique-character-in-a-string) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/akansha388/LeetCodes/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/akansha388/LeetCodes/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/akansha388/LeetCodes/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
@@ -234,4 +237,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/akansha388/LeetCodes/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/akansha388/LeetCodes/tree/master/2916-subarrays-distinct-element-sum-of-squares-ii) |
+## Queue
+|  |
+| ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/akansha388/LeetCodes/tree/master/0387-first-unique-character-in-a-string) |
 <!---LeetCode Topics End-->
